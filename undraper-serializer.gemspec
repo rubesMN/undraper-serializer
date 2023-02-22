@@ -13,7 +13,7 @@ Gem::Specification.new do |gem|
   gem.summary = 'Fast JSON serialization library'
   gem.description = 'A fast super-memory-efficient serializer for Ruby Objects. '\
     'Not Draper, not called a decorator, just a semi-opinionated declarative json serialization, written in Ruby, fast, nested, and deeply selectable.'
-  gem.homepage = 'https://github.com/jsonapi-serializer/jsonapi-serializer'
+  gem.homepage = 'https://github.com/rubesMN/undraper-serializer.git'
   gem.licenses = ['Apache-2.0']
   gem.files = Dir['lib/**/*']
   gem.require_paths = ['lib']
