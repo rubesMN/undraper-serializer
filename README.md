@@ -907,7 +907,7 @@ polymorphic | Allows different record types for a polymorphic association | `has
 
 ### Performance Instrumentation
 
-Performance instrumentation is available by using the
+Changes to this gem require performance comparisons.  Performance instrumentation is available by using the
 `active_support/notifications`.
 
 To enable it, include the module in your serializer class:

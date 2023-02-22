@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
   gem.licenses = ['Apache-2.0']
   gem.files = Dir['lib/**/*']
   gem.require_paths = ['lib']
-  gem.extra_rdoc_files = ['LICENSE.txt', 'README.md']
+  gem.extra_rdoc_files = ['LICENSE', 'README.md']
 
   gem.add_runtime_dependency('activesupport', '>= 4.2')
 

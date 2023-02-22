@@ -15,3 +15,4 @@ Please make sure the following requirements are complete:
 - [ ] Docs have been reviewed and added / updated if needed (for bug fixes /
   features)
 - [ ] All automated checks pass (CI/CD)
+- [ ] Performance tests to ensure you did not slow things down

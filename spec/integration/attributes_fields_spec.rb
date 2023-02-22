@@ -36,7 +36,7 @@ RSpec.describe UNDRAPER::Serializer do
       end
     end
 
-    context 'with new compound fields concept' do
+    context 'with new compound field selectability concept' do
       let(:params) do
         {
           fields: [ :first_name, {played_movies: [:release_year]} ]
